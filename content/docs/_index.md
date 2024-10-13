@@ -1,9 +1,9 @@
 ---
-title: Documentation
+title: Releases
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
+We strongly adhere to open science principles. Therefore, we release our code and datasets whenever possible.
 
 ## Hello, World!
 

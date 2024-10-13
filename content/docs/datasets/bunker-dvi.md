@@ -1,7 +1,7 @@
 ---
-title: Leaf Page
+title: Bunker DVI Dataset
 type: docs
-prev: docs/folder/
+prev: docs/datasets/
 ---
 
 This page is under a folder.

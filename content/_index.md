@@ -1,9 +1,15 @@
 ---
-title: My Site
+title: Research in 3D Perception
+type: default
 toc: false
 ---
 
-This is the landing page.
+The 3D Perception Lab is a research unit of the Royal Military Academy of Belgium. 
+
+
+{{< callout type="info" >}}
+  This website is currently in a very early stage of development.
+{{< /callout >}}
 
 ## Explore
 
