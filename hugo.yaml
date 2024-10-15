@@ -57,3 +57,11 @@ params:
     # light | dark | system
     default: light
     displayToggle: true
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: /images/3dpv2.svg
+      link: /
+      width: 30
+      height: 40
