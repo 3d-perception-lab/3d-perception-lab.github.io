@@ -22,10 +22,10 @@ menu:
       pageRef: /
       weight: 1
     - name: Research
-      pageRef: /research
+      pageRef: /research/overview
       weight: 2
-    - name: Releases
-      pageRef: /docs
+    - name: Publications
+      pageRef: /publications/articles
       weight: 3
     - name: People
       pageRef: /people

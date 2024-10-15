@@ -1,7 +1,7 @@
 ---
 title: Deep Feature-Based VIO
 type: docs
-prev: docs/datasets/
+prev: publications/datasets/
 ---
 
 This page is under a folder.

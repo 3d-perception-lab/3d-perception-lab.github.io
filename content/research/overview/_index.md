@@ -1,11 +1,11 @@
 ---
-title: Datasets
+title: Research overview
 type: docs
-weight: 3
+weight: 1
 prev: docs/first-page
 next: docs/datasets/bunker-dvi
+toc: false
 sidebar:
-  open: true
+  open: false
 ---
 
-Pages can be organized into folders.

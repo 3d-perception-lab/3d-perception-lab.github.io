@@ -1,9 +1,9 @@
 ---
-title: Publications
+title: Articles
 type: docs
 weight: 1
-prev: docs/first-page
-next: docs/datasets/bunker-dvi
+prev: publications/first-page
+next: publications/datasets/bunker-dvi
 toc: false
 sidebar:
   open: false
@@ -11,9 +11,12 @@ sidebar:
 
 ## Journal articles
 
+- **Depth-Visual-Inertial Mapping System for Robust Indoor 3D Reconstruction**<br />
+C Hamesse M Vlaminck, H Luong, R Haelterman<br />
+*IEEE Robotics and Automation Letters, 2024* 
 - **Fast and Cost-Effective Calibration of UWB Anchors Using a Portable LiDAR-Inertial SLAM System**<br />
 C Hamesse, R Vleugels, M Vlaminck, H Luong, R Haelterman<br />
-*IEEE Sensors 2024* 
+*IEEE Sensors, 2024* 
 - **Visual Localization of Drone for Autonomous Landing on a Moving Vessel**<br/>
 TT Nguyen, C Hamesse, et. al.<br />
 *Acta IMEKO, 2024*
@@ -22,7 +25,7 @@ TT Nguyen, C Hamesse, et. al.<br />
 ## Conference and workshop papers
 - **Development of Ultra-Portable 3D Mapping Systems for Emergency Services**<br />
 C Hamesse, T Fréville, J Saarinen, M Vlaminck, H Luong, R Haelterman<br />
-*IEEE ICRA Workshop on Field Robotics 2024*
+*IEEE ICRA Workshop on Field Robotics, 2024*
 
 - **Practical Deep Feature-Based Visual-Inertial Odometry**<br />
 C Hamesse, M Vlaminck, H Luong, R Haelterman<br />
