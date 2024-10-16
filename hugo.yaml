@@ -61,7 +61,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: /images/3dpv2.svg
+      path: images/3dpv2.svg
       link: /
       width: 30
       height: 40
