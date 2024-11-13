@@ -8,7 +8,7 @@ The 3D Perception Lab is a joint venture between the Department of Mathematics a
 
 {{< cards cols="2" >}}
   {{< card link="/" title="Rob Haelterman"subtitle="Military Professor" >}}
-  {{< card link="/" title="Charles Hamesse" subtitle="Researcher"  >}}
+  {{< card link="/" title="Charles Hamesse" subtitle="Research Engineer / Project Manager"  >}}
 {{< /cards >}}
 
 {{< cards cols="2" >}}

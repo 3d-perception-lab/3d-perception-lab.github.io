@@ -61,7 +61,11 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/3dpv2.svg
+      path: images/logo.svg
       link: /
-      width: 30
+      width: 40
       height: 40
+      params:
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: wide
