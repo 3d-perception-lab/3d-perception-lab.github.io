@@ -9,6 +9,11 @@ sidebar:
   open: false
 ---
 
+{{< callout type="info" >}}
+  This section is still in a very early stage of development. Expect missing and / or unverified information!
+{{< /callout >}}
+
+
 ## Journal articles
 
 - **Depth-Visual-Inertial Mapping System for Robust Indoor 3D Reconstruction**<br />
