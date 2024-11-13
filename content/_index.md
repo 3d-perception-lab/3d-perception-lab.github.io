@@ -14,7 +14,7 @@ In this website, we detail our [research projects](/research/overview), list our
 Feel free to [contact us](/contact) for additional information, collaboration opportunities or any other query!
 
 ## News
-- **18 Nov 2024:** Our article "Depth-Visual..." has been published in the IEEE Robotics and Automation Letters! 
+- **18 Nov 2024:** Our article "Depth-Visual-Inertial Mapping System for Robust Indoor 3D Reconstruction" has been published in the IEEE Robotics and Automation Letters! 
 - **15 Nov 2024:** The page dedicated to the [DEFRA-TaMaCare](/research/projects/tamacare/) project is now live. 
 - **13 Nov 2024:** Website online! Some sections are still under construction. Expect changes in the coming weeks.
 
