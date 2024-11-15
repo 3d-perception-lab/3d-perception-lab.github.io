@@ -1,10 +1,10 @@
 ---
-title: Articles
+title: Papers
 type: docs
 weight: 1
 prev: publications/first-page
 next: publications/datasets/bunker-dvi
-toc: false
+toc: true
 sidebar:
   open: false
 ---
@@ -27,10 +27,7 @@ TT Nguyen, C Hamesse, et. al.<br />
 *Acta IMEKO, 2024*
 
 
-## Conference and workshop papers
-- **Development of Ultra-Portable 3D Mapping Systems for Emergency Services**<br />
-C Hamesse, T Fréville, J Saarinen, M Vlaminck, H Luong, R Haelterman<br />
-*IEEE ICRA Workshop on Field Robotics, 2024*
+## Conference papers
 
 - **Practical Deep Feature-Based Visual-Inertial Odometry**<br />
 C Hamesse, M Vlaminck, H Luong, R Haelterman<br />
@@ -39,3 +36,11 @@ C Hamesse, M Vlaminck, H Luong, R Haelterman<br />
 - **Multi-Agent Monocular SLAM**<br />
 P Beerten, C Hamesse, R Haelterman<br />
 *Proceedings of the 16th International Conference on Agents and Artificial Intelligence (ICAART), 2024*
+
+## Workshop papers
+
+- **Development of Ultra-Portable 3D Mapping Systems for Emergency Services**<br />
+C Hamesse, T Fréville, J Saarinen, M Vlaminck, H Luong, R Haelterman<br />
+*IEEE ICRA Workshop on Field Robotics, 2024*
+
+## Talks and seminars

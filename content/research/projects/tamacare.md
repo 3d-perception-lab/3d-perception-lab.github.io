@@ -36,30 +36,35 @@ On the battlefield, injured soldiers can face significant delays in medical trea
 
 ## Project team
 
+### Consortium
+
+{{< cards >}}
+  {{< card 
+        link="/" title="Royal Military Academy"  subtitle="Coordinator"
+        image="/images/logos/rma.jpg" 
+        style="background-color: white;"
+        imageStyle="height: 160px; object-fit: contain; background-color: white;padding: 10px;"  >}}
+  {{< card 
+        link="/" title="Ghent University"  subtitle="Partner"
+        image="/images/logos/ugent.png" 
+        imageStyle="height: 160px; object-fit: cover; background-color: white;padding: 10px;"  >}}
+  {{< card 
+        link="/" title="Pozyx"  subtitle="Partner"
+        image="/images/logos/pozyx.jpg" 
+        imageStyle="height: 160px; object-fit: contain;  background-color: white; padding: 10px;"  >}}
+{{< /cards >}}
+
+### Members 
 
 | Name | Institution | Role |
 |:--|:--|:--|
-| Charles HAMESSE, Ir | RMA, 3D Perception Lab | Project Coordinator |
-| Darius COUCHARD, Ir | RMA, 3D Perception Lab  & Hyper RU |  Research Engineer |
-| Hiep LUONG, Prof dr ir | UGent, UAV Research Center |  Principal Investigator  |
-| TBD | UGent, UAV Research Center |  Research Engineer  |
+| Charles HAMESSE, Ir | Royal Military Academy, 3D Perception Lab | Project Coordinator |
+| Darius COUCHARD, Ir | Royal Military Academy, 3D Perception Lab  & Hyper RU |  Research Engineer |
+| Hiep LUONG, Prof dr ir | Ghent University, UAV Research Center |  Principal Investigator  |
+| TBD | Ghent University, UAV Research Center |  Research Engineer  |
 | Julie NECKEBROEK, Dr ir | Pozyx |  Principal Investigator  |
 | TBD | Pozyx |  Research Engineer  |
 
-{{< hextra/feature-grid >}}
-  {{< hextra/feature-card
-    title="Royal Military Academy"
-    subtitle="Coordinator"
-  >}}
-  {{< hextra/feature-card
-    title="Ghent University"
-    subtitle="Partner"
-  >}}
-  {{< hextra/feature-card
-    title="Pozyx"
-    subtitle="Partner"
-  >}}
-{{< /hextra/feature-grid >}}
 
 ## Output
 

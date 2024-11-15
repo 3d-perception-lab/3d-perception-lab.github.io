@@ -1,5 +1,6 @@
 ---
 title: Research overview
+next: first-page
 type: docs
 weight: 1
 prev: docs/first-page
@@ -8,6 +9,7 @@ toc: false
 sidebar:
   open: false
 ---
+
 
 {{< callout type="info" >}}
   This section is still in a very early stage of development. Expect missing and / or unverified information!
