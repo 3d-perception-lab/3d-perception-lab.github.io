@@ -1,6 +1,7 @@
 ---
 title: People
 type: people
+weight: 4
 ---
 
 {{< callout type="info" >}}

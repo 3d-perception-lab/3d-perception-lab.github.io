@@ -1,7 +1,7 @@
 {{- $enableFooterSwitches := .Scratch.Get "enableFooterSwitches" | default false -}}
 {{- $displayThemeToggle := site.Params.theme.displayToggle | default true -}}
 
-{{- $copyright := (T "copyright") | default "© 2024 3D Perception Lab." -}}
+{{- $copyright := (T "copyright") | default "© 2024 3D Perception Lab" -}}
 {{- $poweredBy := (T "poweredBy") | default "Powered by Hextra" -}}
 
 {{- $footerWidth := "hx-max-w-screen-xl" -}}
@@ -34,7 +34,7 @@
   <div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-4 max-sm:hx-grid-cols-4 hx-gap-10 hx-w-full not-prose" style="--hextra-feature-grid-cols:4">
     <div class="hx-py-1">
         <div class="hx-font-semibold">Royal Military Academy</div>
-        <div class="hx-mt-6 hx-text-s">30, Avenue de la Renaissance<br />1000 Brussels<br />Belgium</div>
+        <div class="hx-mt-6 hx-text-s">30, Avenue de la Renaissance<br />Brussels 1000<br />Belgium</div>
         <div class="hx-mt-6 hx-text-s">{{ "[3d-perception-lab@mil.be](mailto:3d-perception-lab@mil.be)" | markdownify }}</div>
         {{- if (.Site.Params.footer.displayPoweredBy | default false) }}<div class="hx-font-semibold">{{ template "theme-credit" $poweredBy }}</div>{{ end }}
         {{- if .Site.Params.footer.displayCopyright }}<div class="hx-mt-6 hx-text-xs">{{ $copyright | markdownify }}</div>{{ end }}

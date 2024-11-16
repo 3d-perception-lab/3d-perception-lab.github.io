@@ -1,7 +1,7 @@
 ---
-title: Student theses
+title: Master theses
 type: docs
-weight: 3
+weight: 4
 prev: docs/first-page
 next: docs/datasets/bunker-dvi
 toc: false

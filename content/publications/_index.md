@@ -1,6 +1,7 @@
 ---
 title: Publications
 next: first-page
+weight: 3
 ---
 
 We strongly adhere to open science principles. Therefore, we release our code and datasets whenever possible.
