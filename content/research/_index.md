@@ -2,6 +2,8 @@
 title: Research
 next: first-page
 weight: 2
+sidebar:
+  open: true
 ---
 
 
@@ -38,13 +40,22 @@ Some example developments include:
 Collaborating with other departments and research units, we deliver state-of-the-art 3D perception systems used as a component in other systems for applications such as:
 
 - **Autonomous systems:** robotics, drones, self-driving vehicles, path planning
-- **Augmented and virtual Reality:** AR/VR environments, spatial tracking, human-computer interaction, immersive rendering
+- **Augmented and virtual reality:** AR/VR environments, spatial tracking, human-computer interaction, immersive rendering
 - **Demining:** mine or threat detection and classification
 - **Geospatial mapping:** 3D mapping for situational awareness, digital twins
 
 
+Some example developments include:
+
 {{< cards >}}
-  {{< card link="/research/projects/belgian" title="Platform sensors for a mine detection UGV" subtitle="Project: BELGIAN" image="/images/husky-platform.png"   >}}
-  {{< card link="/" title="Local Image" image="/images/card-image-unprocessed.jpg" subtitle="Raw image under static directory." >}}
-  {{< card link="/" title="Local Image" image="images/space.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
+
+
+  {{< card link="/research/projects/beyvar" title="Bunker Depth-Visual-Inertial Dataset" subtitle="Project: BeyVAR" image="/images/bunker-dataset-3D.jpg" 
+  imageStyle="height: 180px; object-fit: cover;">}}
+  
+  {{< card link="/research/projects/belgian" title="360° Situational Awareness for Mine Detection UGV" subtitle="Project: BELGIAN" image="/images/husky-platform.png" 
+  imageStyle="height: 180px; object-fit: cover;">}}
+
+  {{< card link="/research/projects/mixrs" title="VR Firefighting Training Unit" subtitle="Project: MIXRS" image="/images/vrfftu.jpg" 
+  imageStyle="height: 180px; object-fit: cover;">}}
 {{< /cards >}}

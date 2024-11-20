@@ -6,7 +6,7 @@ prev: docs/first-page
 next: docs/datasets/bunker-dvi
 toc: false
 sidebar:
-  open: false
+  open: true
 ---
 
 
@@ -25,10 +25,6 @@ sidebar:
 
   {{< card link="/research/projects/dream" 
   subtitle="DREAM" title="Distributed Reconnaissance And Mapping" image="/images/multi-agent-slam.png" 
-  imageStyle="height: 180px; object-fit: cover;" method="Resize" options="600x q80 webp" >}}
-
-  {{< card link="/research/projects/grand" 
-  subtitle="GRAND" title="x" image="/images/x.png" 
   imageStyle="height: 180px; object-fit: cover;" method="Resize" options="600x q80 webp" >}}
 
   {{< card link="/research/projects/guided" 

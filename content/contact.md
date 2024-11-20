@@ -16,12 +16,15 @@ E-mail: 3d-perception-lab@mil.be
 
 ## Address
 
-**3D Perception Lab**   \
+Official address: 
+
+- **3D Perception Lab**   \
 Department of Mathematics  \
 Royal Military Academy (RMA)   
 30, Avenue de la Renaissance  
 Brussels 1000  
 Belgium
 
+Alternate addresses of the RMA campus:
 - **Deliveries:** Rue Leonardo da Vinci, 7
-- **Campus entrance:** Rue Hobbema, 8 
+- **Visitor entrance:** Rue Hobbema, 8 

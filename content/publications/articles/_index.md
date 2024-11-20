@@ -44,3 +44,8 @@ C Hamesse, T Fréville, J Saarinen, M Vlaminck, H Luong, R Haelterman<br />
 *IEEE ICRA Workshop on Field Robotics, 2024*
 
 ## Talks and seminars
+
+
+- **Ultra-Portable 3D Mapping Systems for the Modern Battlefield**<br />
+C Hamesse<br />
+*Future Land Forces, Warsaw, November 2024*

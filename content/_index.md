@@ -5,6 +5,7 @@ toc: false
 weight: 1
 ---
 
+<p></p>
 
 The **3D Perception Lab** is a research unit within the [Royal Military Academy (RMA)](https://rma.ac.be/) of Belgium. With roots in the Department of Mathematics and a commitment to interdisciplinary research, our efforts are centered around two primary directions:
 - **Fundamental research in 3D perception:** We develop novel signal processing, sensor fusion techniques and optimization techniques for 3D localization and mapping. 
@@ -28,7 +29,7 @@ Feel free to [contact us](/contact) for additional information, collaboration op
 
 {{< cards >}}
   {{< card 
-        link="/" title="MWMW - Hyper RU"  subtitle="Royal Military Academy"
+        link="https://researchportal.rma.ac.be/en/organisations/hyperspectral-unit" title="MWMW - Hyper RU"  subtitle="Royal Military Academy"
         image="/images/logos/rma.jpg" 
         imageStyle="height: 160px; object-fit: cover; background-color: white;padding: 10px;"  >}}
   {{< card 

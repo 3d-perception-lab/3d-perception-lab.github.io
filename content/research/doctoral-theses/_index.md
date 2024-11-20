@@ -9,7 +9,13 @@ sidebar:
   open: false
 ---
 
+The following doctoral theses are currently being developed within or in partnership with the 3D Perception Lab:
 
-{{< callout type="info" >}}
-  This section is still in a very early stage of development. Expect missing and / or unverified information!
-{{< /callout >}}
+- **Portable 3D Mapping Systems and Applications** \
+Researcher: Charles Hamesse \
+Supervisors: Prof. Haelterman, Prof. Luong
+Royal Military Academy and Ghent University 
+- **UGV for Demining (title TBD)** \
+Researcher: Mario Malizia \
+Supervisors: Prof. Haelterman, Prof. Demeester \
+Royal Military Academy and Katholieke Universiteit Leuven 
