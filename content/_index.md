@@ -11,7 +11,7 @@ The **3D Perception Lab** is a research unit within the [Royal Military Academy 
 - **Fundamental research in 3D perception:** We develop novel signal processing, sensor fusion techniques and optimization techniques for 3D localization and mapping. 
 - **3D perception for downstream applications:** Collaborating with other departments and research units, we deliver state-of-the-art 3D perception systems used as a component in other systems for applications such as mine detection, autonomous robot navigation, 3D reconstruction, augmented reality (AR) and virtual reality (VR). 
 
-In this website, we describe our [research projects](/research/overview), list our [publications](/publications/articles) and open-source contributions ([software](/publications/code) and [datasets](/publications/datasets)), and present our [team](/people). 
+In this website, we describe our [research projects](/research), list our [publications](/publications/articles) and open-source contributions ([software](/publications/code) and [datasets](/publications/datasets)), and present our [team](/people). 
 
 Feel free to [contact us](/contact) for additional information, collaboration opportunities or any other query!
 

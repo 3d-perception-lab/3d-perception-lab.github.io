@@ -9,9 +9,10 @@ weight: 5
 ## Enquiries
 
 
-Contact us for general enquiries and collaboration opportunities.
+Please use the following links to contact us for general enquiries and collaboration opportunities:
 
-E-mail: 3d-perception-lab@mil.be
+- [Rob Haelterman](https://researchportal.rma.ac.be/en/persons/rob-haelterman) - Military Professor
+- [Charles Hamesse](https://researchportal.rma.ac.be/en/persons/charles-hamesse) - Research Engineer / Project Manager
 
 
 ## Address

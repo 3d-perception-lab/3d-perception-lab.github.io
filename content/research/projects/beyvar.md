@@ -9,7 +9,7 @@ prev: research/projects/
 
 - Source: Royal Higher Institute for Defence (RHID)
 - Project code: DAP22/01
-- Budget: 599 k€
+- Total cost: 599 k€
 - Start date: November 1st, 2023
 - End date: October 31st, 2027
 
@@ -53,9 +53,20 @@ The goal of this study is to integrate a) the most recent compact infrared camer
 
 ## Output
 
+### Publications 
+
 - **Depth-Visual-Inertial Mapping System for Robust Indoor 3D Reconstruction**<br />
 C Hamesse M Vlaminck, H Luong, R Haelterman<br />
 *IEEE Robotics and Automation Letters, 2024* 
 - **Fast and Cost-Effective Calibration of UWB Anchors Using a Portable LiDAR-Inertial SLAM System**<br />
 C Hamesse, R Vleugels, M Vlaminck, H Luong, R Haelterman<br />
 *IEEE Sensors, 2024* 
+- **Practical Deep Feature-Based Visual-Inertial Odometry**<br />
+C Hamesse M Vlaminck, H Luong, R Haelterman<br />
+*ICPRAM, 2024* 
+
+
+### Others
+
+- Bunker DVI Dataset
+- Deep Feature-Based VIO

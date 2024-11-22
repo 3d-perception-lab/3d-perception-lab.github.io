@@ -26,7 +26,7 @@ Some example developments include:
 {{< cards >}}
   {{< card link="/research/projects/mixrs" title="Helmet-Mounted SLAM" subtitle="Project: MIXRS" image="/images/helmet-mounted-rig.jpg" 
   imageStyle="height: 180px; object-fit: cover;">}}
-  {{< card link="/" title="Multi-Agent SLAM" subtitle="Project: DREAM" image="/images/multi-agent-slam.png"
+  {{< card link="/research/projects/dream" title="Multi-Agent SLAM" subtitle="Project: DREAM" image="/images/multi-agent-slam.png"
   imageStyle="height: 180px; object-fit: cover;">}}
   {{< card link="/research/projects/beyvar" title="Deep Feature-Based VIO" image="/images/lightglue-VINS-features-1.png" 
   imageStyle="height: 180px; object-fit: cover;" subtitle="Project: BeyVAR" method="Resize" options="600x q80 webp" >}}

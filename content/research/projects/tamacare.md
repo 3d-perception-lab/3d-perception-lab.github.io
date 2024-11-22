@@ -10,7 +10,7 @@ prev: research/projects/
 
 - Source: Defense-Related Research Action (DEFRA)
 - Project code: DEFRA-TaMaCare
-- Total project cost: 942 k€
+- Total cost: 942 k€
 - Start date: January 1st, 2025
 - End date: December 31st, 2027
 
@@ -40,16 +40,16 @@ On the battlefield, injured soldiers can face significant delays in medical trea
 
 {{< cards >}}
   {{< card 
-        link="/" title="Royal Military Academy"  subtitle="Coordinator"
+        link="https://rma.ac.be/en" title="Royal Military Academy"  subtitle="Coordinator"
         image="/images/logos/rma.jpg" 
         style="background-color: white;"
         imageStyle="height: 160px; object-fit: contain; background-color: white;padding: 10px;"  >}}
   {{< card 
-        link="/" title="Ghent University"  subtitle="Partner"
+        link="https://www.ugent.be/" title="Ghent University"  subtitle="Partner"
         image="/images/logos/ugent.png" 
         imageStyle="height: 160px; object-fit: cover; background-color: white;padding: 10px;"  >}}
   {{< card 
-        link="/" title="Pozyx"  subtitle="Partner"
+        link="https://www.pozyx.io/" title="Pozyx"  subtitle="Partner"
         image="/images/logos/pozyx.jpg" 
         imageStyle="height: 160px; object-fit: contain;  background-color: white; padding: 10px;"  >}}
 {{< /cards >}}

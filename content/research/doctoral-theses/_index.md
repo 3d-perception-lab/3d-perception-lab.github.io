@@ -13,7 +13,7 @@ The following doctoral theses are currently being developed within or in partner
 
 - **Portable 3D Mapping Systems and Applications** \
 Researcher: Charles Hamesse \
-Supervisors: Prof. Haelterman, Prof. Luong
+Supervisors: Prof. Haelterman, Prof. Luong \
 Royal Military Academy and Ghent University 
 - **UGV for Demining (title TBD)** \
 Researcher: Mario Malizia \
