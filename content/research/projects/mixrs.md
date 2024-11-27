@@ -8,20 +8,19 @@ prev: research/projects/
 
 {{% details title="Funding information" %}}
 
-- Source: Defense-Related Research Action (DEFRA)
-- Project code: DEFRA-TaMaCare
-- Total cost: 942 k€
-- Start date: January 1st, 2025
-- End date: December 31st, 2027
+- Source: Royal Higher Institute for Defence (RHID)
+- Project code: DAP18/4
+- Total cost: 0.6 M€
+- Start date: January 1st, 2019
+- End date: October 31st, 2023
 
 {{% /details %}}
 
-**Keywords:** 3D mapping, infrared imaging, threat detection, victim monitoring, triage
+**Keywords:** augmented reality, virtual reality, 3D perception
 
-## Context and motivation
 
-## Objectives
 
-## Project team
+{{< callout type="info" >}}
+  This section is still in a very early stage of development. Expect missing and / or unverified information!
+{{< /callout >}}
 
-## Output 

@@ -7,13 +7,14 @@ prev: research/projects/
 
 {{% details title="Funding information" %}}
 
-- Source: DEFRA
-- Project code: x
-- Total cost: x
-- Start date: x
-- End date: x
+- Source: Defense-Related Research Action (DEFRA)
+- Project code: DEFRA-GUIDED
+- Total cost: 1.9 €
+- Start date: January 1st, 2025
+- End date: December 31st, 2027
 
 {{% /details %}}
+
 
 **Keywords:** 3D localization and mapping, virtual reality, demining, multi-spectral imaging
 

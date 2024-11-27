@@ -4,16 +4,7 @@ next: first-page
 weight: 3
 ---
 
-We strongly adhere to open science principles. Therefore, we release our code and datasets whenever possible.
-aaa
-## Hello, World!
 
-```go {filename="main.go"}
-package main
+Please check our [papers](/publications/articles) or our open-source [datasets](/publications/datasets) and [code](/publications/code).
 
-import "fmt"
 
-func main() {
-    fmt.Println("Hello, World!")
-}
-```

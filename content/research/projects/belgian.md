@@ -5,8 +5,6 @@ type: docs
 prev: research/projects/
 ---
 
-
-
 {{% details title="Funding information" %}}
 
 - Source: DFR
@@ -29,7 +27,26 @@ These **BELGIAN** demining robots should be able to participate in the IED detec
 
 ## Objectives
 
+The global objective of **BELGIAN** is to provide EOD teams with better robotic tools, allowing them to perform remote EO disarming operations. This is achieved by designinga semi-autonomous control system for a multi-robot demining system equipped with robotic arms. The autonomous operation of the multi-robot system will enable rapid IED detection in an unknown and large-scale environment, likely to be dangerous due to the probable presence of IEDs and other explosive systems. The presence of the robotic arm will allow the robots to improve their range of action during their autonomous operation by implementing functionalities such as the ability to open doors with the robotic armor disarm EO, thereby increasing the percentage of EOD operations that can be executed fully remotely and thus without exposing human operators to life-threatening risks
 
 ## Project team
 
+
+| Name | Institution | Role |
+|:--|:--|:--|
+| Ken HASSELMAN | RMA, RAS Lab | Coordinator |
+| Charles HAMESSE | RMA, 3D Perception Lab | Coordinator |
+| Mario MALIZIA | RMA, RAS Lab | Research Engineer |
+
+
 ## Output 
+
+
+
+### Multi-spectral minefield dataset collection
+
+![](/images/belgian_1.jpg "Figure 1. Platform sensors: multi-camera-inertial sensor and LiDAR.")
+
+![](/images/belgian_2.jpg "Figure 2. Arm-mounted sensors: RGB, SWIR and LWIR camera.")
+
+![](/images/belgian_3.jpg "Figure 3. Sample mines (in this case, PFM-1) used in the field.")

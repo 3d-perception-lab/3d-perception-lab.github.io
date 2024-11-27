@@ -25,5 +25,31 @@ The work consists in integrating the robot platforms, the robotic arms and VR te
 
 
 
-![](/images/dream.jpg)
-*Figure 1: Illustration of the proposed system*
+![](/images/dream.jpg "Figure 1: Illustration of the proposed system.")
+
+## Approach
+
+
+{{< callout type="info" >}}
+  This section is still in a very early stage of development. Expect missing and / or unverified information!
+{{< /callout >}}
+
+
+
+![](/images/multi-agent-slam.png "Figure 2: Multi-robot point cloud registration.")
+
+
+## Project team
+
+
+| Name | Institution | Role |
+|:--|:--|:--|
+| Charles HAMESSE | RMA, 3D Perception Lab | Coordinator |
+| Emile LE FLECHER | RMA, RAS Lab | Coordinator |
+| Timothée FREVILLE | RMA, RAS Lab | Research Engineer |
+| Alessandra MIUCCIO | RMA, RAS Lab | Research Engineer |
+
+
+
+
+## Output 
