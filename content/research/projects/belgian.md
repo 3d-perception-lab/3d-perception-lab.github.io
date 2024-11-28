@@ -15,7 +15,7 @@ prev: research/projects/
 
 {{% /details %}}
 
-**Keywords:** Mines, Improvised explosive devices, Explosive Ordnance, UGV, Demining, Manipulation
+**Keywords:** Mines, improvised explosive devices, explosive ordnance, UGV, demining, manipulation
 
 ## Context and motivation
 
@@ -44,6 +44,8 @@ The global objective of **BELGIAN** is to provide EOD teams with better robotic 
 
 
 ### Multi-spectral minefield dataset collection
+
+We have collected a realistic minefield dataset using sensors for 3D perception (localization and mapping) and a multi-spectral camera rig for mine detection. The dataset will be published soon. 
 
 ![](/images/belgian_1.jpg "Figure 1. Platform sensors: multi-camera-inertial sensor and LiDAR.")
 

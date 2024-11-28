@@ -28,14 +28,12 @@ In this study, we propose to extend the operator’s vision in two ways: (therma
 - Thermal or infrared (IR) vision has shown to be effectivein many critical (para-) military situations, for example when one needs to detect people in difficult visibility conditions (smoke, fire or camouflage) or carry out inspections of compounds, as the infrared signature of the environment might reveal essential information on the presence of people or substances
 - Radio frequency signals may reveal the presence of other types of potential threats such as remotely controlled bombs, network cameras or any wireless connected device. Detecting these invisible IR signatures and RF signals is important during tactical operations.
 
-![](/images/beyvar-1.png)
-*Figure 1: Illustration of the proposed system*
+![](/images/beyvar-1.png "Figure 1: Illustration of the proposed system")
 
 
 The goal of this study is to integrate a) the most recent compact infrared cameras with AR headsets for real-time, wearable and hands-free usage; b) a RF spectrum sensing device together with our AR system. Through the development of ad-hoc algorithms for sensor fusion, threat or anomaly detection and IR/RF signal visualization, we would effectively extend human vision to IR and RF.
 
-![](/images/beyvar-2.png)
-*Figure 2: Illustration of the potential use cases*
+![](/images/beyvar-2.png "Figure 2: Illustration of the potential use cases")
 
 
 

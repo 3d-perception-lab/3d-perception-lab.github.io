@@ -43,5 +43,4 @@ spectra which contain useful information that is not obvious from the visible sp
 interface, a user-friendly interface will combine the information from the predicted regions of interest
 and visually present them when the operator’s attention is needed.
 
-![](/images/guided.png)
-*Figure 1: Concept image of what an operator could see when virtually standing next to the EOD robot.*
+![](/images/guided.png "Figure 1: Concept image of what an operator could see when virtually standing next to the EOD robot.")
