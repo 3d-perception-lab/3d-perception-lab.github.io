@@ -31,7 +31,7 @@ sidebar:
   subtitle="GUIDED" title="x" image="/images/x.png" 
   imageStyle="height: 180px; object-fit: cover;" method="Resize" options="600x q80 webp" >}}
 
-  {{< card link="/research/projects/TaMaCare" 
+  {{< card link="/research/projects/tamacare" 
   title="Tactical Environmental Mapping for Battlefield Casualty Care" subtitle="TaMaCare" image="/images/tamacare-illustration.png" 
   imageStyle="height: 180px; object-fit: cover;" method="Resize" options="600x q80 webp" >}}
 
