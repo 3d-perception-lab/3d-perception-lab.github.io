@@ -9,7 +9,7 @@ prev: research/projects/
 
 - Source: Defense-Related Research Action (DEFRA)
 - Project code: DEFRA-GUIDED
-- Total cost: 1.9 €
+- Total cost: 1.9 M€
 - Start date: January 1st, 2025
 - End date: December 31st, 2027
 
