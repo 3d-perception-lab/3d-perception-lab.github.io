@@ -28,7 +28,7 @@ sidebar:
   imageStyle="height: 180px; object-fit: cover;" method="Resize" options="600x q80 webp" >}}
 
   {{< card link="/research/projects/guided" 
-  subtitle="GUIDED" title="x" image="/images/x.png" 
+  subtitle="GUIDED" title="Augmented 3D Awareness for Explosive Ordnance Disposal Robotics Operators" image="/images/guided.png" 
   imageStyle="height: 180px; object-fit: cover;" method="Resize" options="600x q80 webp" >}}
 
   {{< card link="/research/projects/tamacare" 

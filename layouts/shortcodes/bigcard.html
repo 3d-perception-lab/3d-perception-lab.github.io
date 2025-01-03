@@ -1,0 +1,37 @@
+{{- $title := .Get "title" -}}
+{{- $role := .Get "role" -}}
+{{- $image := .Get "image" -}}
+{{- $links := .Get "links" -}}
+{{- $linkRP := .Get "linkRP" -}}
+
+<a
+  class="hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-md hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900"
+  href="{{ $linkRP }}"
+>
+  {{- with $image -}}
+  <div class="img-people-container">
+    <img
+      alt="{{ $title }}"
+      loading="lazy"
+      decoding="async"
+      src="{{ $image | safeURL }}"
+      class="img-people"
+    /></div>
+  {{- end -}}
+
+
+  {{- $padding := "hx-p-4" -}}
+  {{- with $role -}}
+    {{- $padding = "hx-pt-4 hx-px-4" -}}
+  {{- end -}}
+
+
+  <span class="hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 {{ $padding }} hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50">
+    {{- $title -}}
+  </span>
+  {{- with $role -}}
+    <div class="hextra-card-subtitle hx-line-clamp-3 hx-text-sm hx-font-normal hx-text-gray-500 dark:hx-text-gray-400 hx-px-4 hx-mb-4 hx-mt-2">
+      {{- $role | markdownify -}}</div>
+  {{- end -}}
+    </a>
+{{- /* Strip trailing newline. */ -}}

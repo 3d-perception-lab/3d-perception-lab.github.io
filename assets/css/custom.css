@@ -1,3 +1,26 @@
 body, .content {
     font-family: "Inter", sans-serif;
   }
+
+.img-people-container {
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+}
+
+img.img-people {
+  display: block;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+}
+.links-people {
+  :where(a) {
+    --tw-text-opacity: 1;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-text-opacity));
+  text-decoration-line: underline;
+  text-decoration-thickness: from-font;
+  text-underline-position: from-font;
+  }
+}
